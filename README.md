@@ -1,9 +1,10 @@
 # ⚙ Project name
 
+*Insert picture/gif of full project UI*
 ## 📂 Assignment
 *Assignment explanation*
 
-## 🧾 Inhoudsopgave
+## 🧾 Table of contents
 -   [About the project](##About-the-project)
       * [Built with](###Built-with)
 -   [Getting started](##Getting-started)
