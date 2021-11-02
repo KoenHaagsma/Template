@@ -1,4 +1,4 @@
-# ⚙ Name
+# ⚙ Project name
 
 ## 📂 Assignment
 *Assignment explanation*
